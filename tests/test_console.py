@@ -1,12 +1,4 @@
 #!/usr/bin/python3
-"""
-Test File for Console
-"""
-import unittest
-import pep8
-
-
-[A[[A[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[A[C[[D[C[C[C[A[C[C[C[C[C[C[C#!/usr/bin/python3
 """test for console"""
 import unittest
 from unittest.mock import patch
